@@ -10,6 +10,6 @@ Homework 1:
 Homework 2:
 - Decision trees
 - Ensemble methods: Bagging and Boosting.
-- Stratified k-fold Cross Validation
+- Stratified k-fold Cross Validation (Source: https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf)
 - Bias-Variance Tradeoff
 - Confusion Matrices
