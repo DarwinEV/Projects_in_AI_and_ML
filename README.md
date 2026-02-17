@@ -17,3 +17,4 @@ Homework 2:
 Homework 3:
 - 2 layer neural network (NN) from scratch using numpy and pandas (Sigmoid activation function)
 - 2 layer NN using pytorch (Relu activation function, Adam optimization)
+- Backpropagation
