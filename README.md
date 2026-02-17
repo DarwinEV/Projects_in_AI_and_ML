@@ -13,3 +13,7 @@ Homework 2:
 - Stratified k-fold Cross Validation (Source: https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf)
 - Bias-Variance Tradeoff
 - Confusion Matrices
+
+Homework 3:
+- 2 layer neural network (NN) from scratch using numpy and pandas (Sigmoid activation function)
+- 2 layer NN using pytorch (Relu activation function, Adam optimization)
