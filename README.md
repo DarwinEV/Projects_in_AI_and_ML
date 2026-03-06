@@ -14,7 +14,15 @@ Homework 2:
 - Bias-Variance Tradeoff
 - Confusion Matrices
 
+
 Homework 3:
 - 2 layer neural network (NN) from scratch using numpy and pandas (Sigmoid activation function)
 - 2 layer NN using pytorch (Relu activation function, Adam optimization)
 - Backpropagation
+
+
+Homework 4:
+- Recurrent Neural Network
+- LSTMs and GRUs
+- Temporal Features and time dependent data
+
