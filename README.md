@@ -26,3 +26,9 @@ Homework 4:
 - LSTMs and GRUs
 - Temporal Features and time dependent data
 
+
+Homework 5:
+- Convolutional Neural Networks with Pytorch
+- VAE's and GANs
+- Transformer Architecture on the Tatoeba dataset with Pytorch
+
