@@ -32,3 +32,11 @@ Homework 5:
 - VAE's and GANs
 - Transformer Architecture on the Tatoeba dataset with Pytorch
 
+Homework 6:
+- Simple Reinforcement Learning demonstration using value iteration.
+- Small example of how RAG is being used to reduce model hallucination.
+
+
+
+
+
